@@ -1,2 +1,2 @@
 # Belajar_Kotlin_Dasar
-Kumpulan materi dan file kodingan belajar kotlin dasar
+Kumpulan materi dan Source Code belajar kotlin dasar
